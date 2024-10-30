@@ -1,0 +1,4 @@
+pylast
+spotipy
+colorama
+pyyaml
