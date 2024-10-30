@@ -1,0 +1,12 @@
+# Spotify API credentials
+spotify:
+  client_id: "your_spotify_client_id_here"
+  client_secret: "your_spotify_client_secret_here"
+
+# LastFM API credentials
+lastfm:
+  api_key: "your_lastfm_api_key_here"
+  api_secret: "your_lastfm_api_secret_here"
+  username: "your_lastfm_username_here"
+  password_hash: "your_lastfm_password_hash_here"
+
